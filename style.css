@@ -17,3 +17,34 @@ footer {
   margin-top: 20px;
   margin-bottom: 0;
 }
+
+.column1{
+    display: flex; 
+    flex-direction: column;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Logo{
+    width: 5rem;
+    height: 5rem;
+}
+
+.column2{
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
+
+.column3{
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
