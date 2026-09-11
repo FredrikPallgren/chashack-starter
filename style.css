@@ -56,3 +56,24 @@ footer {
     width: 50%;
     height: 100%;
 }
+
+#ButtonCounter:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+
+}
+
+h1{
+    animation: h1 1s ease-in-out;
+}
+
+@keyframes h1 {
+    0% {
+        transform: translate(-100px,0);
+
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}
