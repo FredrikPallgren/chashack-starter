@@ -12,7 +12,7 @@ Vi är laget **C-Shark** och detta är vårt bidrag i ChasHack.
 Sidan presenterar laget och innehåller en klickräknare som ökar med 1 per klick.
 
 ## Publicerad version
-- [Öppna vår publicerade sida](https://github.com/FredrikPallgren/chashack-starter)
+- [Öppna vår publicerade sida](https://fredrikpallgren.github.io/chashack-starter/)
 
 ## LinkedIn-Inlägg:
 https://lnkd.in/p/dkc-mX4s
