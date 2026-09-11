@@ -1,9 +1,17 @@
+:root{
+    --primary-bakgrundsfärg: navy;
+    --text: white;
+    --shark_purple: #390091;
+    --gray: #abbaba;
+}
+
 #stopit{
     width: 20rem;
     height: 20rem;
-}body {
-    background: navy;
-    color: white;
+}
+body {
+    background: var(--primary-bakgrundsfärg);
+    color: var(--text);
     font-family: Arial, Helvetica, sans-serif;
 }
 footer {
@@ -11,9 +19,9 @@ footer {
   left: 50%;
   bottom: 0;
   padding: 5px;
-  background-color: #abbaba;
-  color: black;
-  border-top: 4px solid #000000;
+  background-color: var(--shark_purple);
+  color: var(--text);
+  border-top: 4px solid var(--text);
   margin-top: 20px;
   margin-bottom: 0;
 }
