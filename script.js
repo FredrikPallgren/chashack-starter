@@ -8,5 +8,4 @@ buttonCounter.addEventListener("click", function(){
  currentValue++;
  nummbercounter.innerHTML = currentValue;
 })
-
 ;
