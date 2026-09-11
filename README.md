@@ -13,3 +13,10 @@ Sidan presenterar laget och innehåller en klickräknare som ökar med 1 per kli
 
 ## Publicerad version
 - [Öppna vår publicerade sida](https://github.com/FredrikPallgren/chashack-starter)
+
+## LinkedIn-Inlägg:
+https://lnkd.in/p/dkc-mX4s
+
+## Den publicerade sidan
+Här är länken till där man kan se den publicerade sidan:
+https://fredrikpallgren.github.io/chashack-starter/ 
